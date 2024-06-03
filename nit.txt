@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <title>create website</title>
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+    <body>
+        
+         
+       
+<div class="hero">
+     <nav>
+          
+          <ul>
+               <li><a href="home.html"target="main" >HOME</a></li>
+               <li><a href="contact.html"target="main" >CONTACT</a></li>
+               <li><a href="about.html"target="itself" >ABOUT</a></li>
+                
+          </ul>
+</nav>
+<div>
+    <h1>
+    <p><span>hi there<br></span> i am nitsuh<span>tigu</span></p>
+    <p> hagere nafekegni <br>
+        tirigni hegere timhrt kebedegni<br>
+ i am astudent</p>
+
+    </h1>
+</div>
+
+
+</div>
+<div class="detel">
+<h1 ><span>Hi there<br></span>I'm nitsuh <span> tigu</span></h1>
+<p>this is my official website to show partially<br>
+    because i am not web development</p>
+  <a  href="#"> i am astudent</a>
+</div>
+<div class="image">
+    <img src="shape.png"class="shape">
+    <img src="Burie1.1.jpg"class="baby">
+
+    <div>
+        <marquee behavior="scroll"direction="righ"loop="10"/>
+        <h1>
+        WELLCOME TO NITSUH TIGU WEBSITE
+        </h1>
+        
+</div>
+</div>
+    </body>
+	<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <title>My contact</title>
+        <link rel="stylesheet" href="style.css">
+     
+        </head>
+        <div id="contact">
+            <div class="container">
+                <div class="row"></div>
+            <div class="contact-left">
+                <h1 align ="center"class="subtitle"> Contact Me</h1>
+                <p align ="center"> <i class="fas-paper-plane"></i> contact @ example</p>
+                <p align ="center">phone</p>
+                    <a href="https://facebook.com/"><i class="fab"></i></a>
+                    <a href="https://telegram.com/"><i class="telegram"></i></a>
+                </div>
+              
+                <a href="img.png" download class="btn btn2">Download Cv</a>
+            </div>
+        
+        </div>
+            <div class="contact-right">
+                <form>
+                    <input type="text" name="Name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email" required>
+                    <textarea name="message"rows="10" placeholder="Your Message"></textarea>
+                    <button type="submit" class="btn btn2">submit</button>
+                </form>
+
+            </div>
+            <div>
+                <img src="1707765792964.jpg">
+            </div>
+        </div>
+    </head>
+</body>
+        </html>
+		<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <title>My contact</title>
+        <link rel="stylesheet" href="style.css">
+     
+        </head>
+        <div id="contact">
+            <div class="container">
+                <div class="row"></div>
+            <div class="contact-left">
+                <h1 align ="center"class="subtitle"> Contact Me</h1>
+                <p align ="center"> <i class="fas-paper-plane"></i> contact @ example</p>
+                <p align ="center">phone</p>
+                    <a href="https://facebook.com/"><i class="fab"></i></a>
+                    <a href="https://telegram.com/"><i class="telegram"></i></a>
+                </div>
+              
+                <a href="img.png" download class="btn btn2">Download Cv</a>
+            </div>
+        
+        </div>
+            <div class="contact-right">
+                <form>
+                    <input type="text" name="Name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email" required>
+                    <textarea name="message"rows="10" placeholder="Your Message"></textarea>
+                    <button type="submit" class="btn btn2">submit</button>
+                </form>
+
+            </div>
+            <div>
+                <img src="1707765792964.jpg">
+            </div>
+        </div>
+    </head>
+</body>
+        </html>
+		<!DOCTYPE html>
+<html>
+    <head>
+    <title>
+        <h1>
+            
+      about me  
+      
+        </h1>
+    </title>
+    <link rel="stylesheet" href="style.css">
+    <div class="hey">
+</head>
+<body >
+    <h1 align ="center" color= "blue">About Me</h1>
+    <section class="about"id="about">
+        <div class="info">
+        <p>  iam nitsuh tigu<br>i'm software student<br></p>
+            <h1><span>name:</span>nitsuh tigu </h1><br>
+            <h1><span>country:</span>burie</h1>
+            <h1 ><span>department:</span>Software Student</h1><br>
+            <h1 ><span>language:</span>Amharic</h1><br>
+            <a  href="#">learn more</a>
+        </div>
+    </section>
+    <div>
+        <img src="Burie1.1.jpg">
+        <h1>
+            HUGERIE TIRIGN
+        </h1>
+    </div>
+</body>
+</html>
